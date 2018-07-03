@@ -1,4 +1,4 @@
-# Human-resource
+# Human Resource
 This project manages the human resource jobs, such as hiring, merging teams, calculating the ability of employees and teams. 
 
 ## What does the Human Resource Project do?
